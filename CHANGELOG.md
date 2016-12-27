@@ -7,6 +7,9 @@
 * Join the translations table when ordering by translated attributes (https://github.com/globalize/globalize/pull/447). (thanks [Thomas Maas](https://github.com/thomasmaas) & [Michal Cichra](https://github.com/mikz)).
 * Add `unique` to `with_translation` to prevent duplicates if fallbacks are defined and the queried locale is not the fallback language. [#489](https://github.com/globalize/globalize/pull/489) by [krisdigital](https://github.com/krisdigital)
 
+## 5.1.0.pre (2016-12-27)
+* pre release from master
+
 ## 5.0.1 (2015-02-15)
 
 * Don't touch table when model is loaded. [#412](https://github.com/globalize/globalize/pull/412)
